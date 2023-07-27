@@ -1,0 +1,39 @@
+body{background-color: blue;}  
+
+.square {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 30%
+    
+}
+
+h1 {color: black;} 
+
+
+button {
+    background-color: white 
+    border: none;
+    color: bleu;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 80%
+}
+.btn {
+    color: blue
+  }
+p {color:grey ;}
+
+.image {text-align: center;
+    position: absolute;
+    inset: 0;
+    margin: auto;}
